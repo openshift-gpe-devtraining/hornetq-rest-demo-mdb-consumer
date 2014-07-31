@@ -1,2 +1,4 @@
-hornetq-rest-demo-mdb-consumer
+HornetQ Rest Demo MDB Consumer
+
 ==============================
+
